@@ -1,6 +1,6 @@
 ## microrts
 
-This is a form of the original microrts. To create (and maintain) such a fork, please follow (https://help.github.com/articles/fork-a-repo/). If you do so, you may be able to generate pull request against the upstream repository, which may be helpful some day (https://help.github.com/articles/about-pull-requests/). You may also want to sync your clone with the upstream repo once in a while: (https://help.github.com/articles/syncing-a-fork/).
+This is a fork of the original microrts repository (great work, thanks!!). To create (and maintain) such a fork, please follow (https://help.github.com/articles/fork-a-repo/). If you do so, you may be able to generate pull request against the upstream repository, which may be helpful some day (https://help.github.com/articles/about-pull-requests/). You may also want to sync your clone with the upstream repo once in a while: (https://help.github.com/articles/syncing-a-fork/).
 
 UNCHANGED (so far) below:
 
