@@ -1,5 +1,9 @@
 ## microrts
 
+This is a form of the original microrts. To create (and maintain) such a fork, please follow (https://help.github.com/articles/fork-a-repo/). If you do so, you may be able to generate pull request against the upstream repository, which may be helpful some day (https://help.github.com/articles/about-pull-requests/). You may also want to sync your clone with the upstream repo once in a while: (https://help.github.com/articles/syncing-a-fork/).
+
+UNCHANGED (so far) below:
+
 microRTS is a small implementation of an RTS game, designed to perform AI research. The advantage of using microRTS with respect to using a full-fledged game like Wargus or Starcraft (using BWAPI) is that microRTS is much simpler, and can be used to quickly test theoretical ideas, before moving on to full-fledged RTS games.
 
 microRTS is deterministic and real-time (i.e. players can issue actions simultaneously, and actions are durative). It is possible to experiment both with fully-observable and partially-observable games. Thus, it is not adequate for evaluating AI techniques designed to deal with non-determinism (although future versions of microRTS might include non-determinism activated via certain flags). As part of the implementation, I include a collection of hard-coded, and game-tree search techniques (such as variants of minimax, Monte Carlo search, and Monte Carlo Tree Search).
